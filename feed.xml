@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>
+      <![CDATA[I hope this counts as CAS]]>
+    </title>
+    <atom:link href="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description>
+      <![CDATA[This is a podcast made as a CAS project of three IB students. Here we are sharing our experiences in IB, discuss IAs, EEs, ToK and the general student life. We are also hosting a small Q&A section in the end.]]>
+    </description>
+    <generator>RSS.com</generator>
+    <lastBuildDate>Mon, 29 Mar 2021 7:00:31 +0000</lastBuildDate>
+    <language>en</language>
+    <copyright>
+      <![CDATA[Michael Mykhaylov 2021]]>
+    </copyright>
+    <itunes:image href="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/cover.jpg" />
+    <image>
+      <url>https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/cover.jpg</url>
+      <title>I hope this counts as CAS</title>
+    </image>
+    <itunes:summary>
+      <![CDATA[This is a podcast made as a CAS project of three IB students. Here we are sharing our experiences in IB, discuss IAs, EEs, ToK and the general student life. We are also hosting a small Q&A section in the end.]]>
+    </itunes:summary>
+    <podcast:locked owner="extxlbczrqrceqkwzz@twzhhq.com">No</podcast:locked>
+    <itunes:author>Michael Mykhaylov</itunes:author>
+    <itunes:owner>
+      <itunes:name>Michael Mykhaylov</itunes:name>
+      <itunes:email>extxlbczrqrceqkwzz@twzhhq.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"></itunes:category>
+    </itunes:category>
+    <item>
+      <title>
+        <![CDATA[Episode 1 — Pilot]]>
+      </title>
+      <itunes:title>
+        <![CDATA[Episode 1 — Pilot]]>
+      </itunes:title>
+      <itunes:summary>Today we will be getting to know each other, as this is our first time talking. We also cover our experiences with the most hated subject of all — Theory of Knowledge. Inside are the tips how to make it more manageable.</itunes:summary>
+      <description>
+        <![CDATA[<p>Today we will be getting to know each other, as this is our first time talking. We also cover our experiences with the most hated subject of all — Theory of Knowledge. Inside are the tips how to make it more manageable.</p>]]>
+      </description>
+      <enclosure url="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/episodes/ibPodcast_ep1_03.29.mp3" length="66215622" type="audio/mp3"></enclosure>
+      <guid isPermaLink="false">0d47121e-64cc-a5f5-d506-0c58eca179e6</guid>
+      <itunes:image href="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/cover.jpg"></itunes:image>
+      <itunes:duration>3311</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>yes</itunes:explicit>
+      <pubDate>Mon, 29 Mar 2021 7:00:31 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
