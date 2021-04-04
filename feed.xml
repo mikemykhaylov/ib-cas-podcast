@@ -26,7 +26,7 @@
     <itunes:author>Michael Mykhaylov</itunes:author>
     <itunes:owner>
       <itunes:name>Michael Mykhaylov</itunes:name>
-      <itunes:email>extxlbczrqrceqkwzz@twzhhq.com</itunes:email>
+      <itunes:email>mikemikhailov2003@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -44,7 +44,7 @@
       <description>
         <![CDATA[<p>Today we will be getting to know each other, as this is our first time talking. We also cover our experiences with the most hated subject of all — Theory of Knowledge. Inside are the tips how to make it more manageable.</p>]]>
       </description>
-      <enclosure url="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/episodes/ibPodcast_ep1_03.29.mp3" length="66215622" type="audio/mp3"></enclosure>
+      <enclosure url="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/episodes/ibPodcast_ep1_20210329.mp3" length="66215622" type="audio/mp3"></enclosure>
       <guid isPermaLink="false">0d47121e-64cc-a5f5-d506-0c58eca179e6</guid>
       <itunes:image href="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/cover.jpg"></itunes:image>
       <itunes:duration>3311</itunes:duration>
@@ -52,6 +52,26 @@
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>yes</itunes:explicit>
       <pubDate>Mon, 29 Mar 2021 7:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Episode 2 — Getting through MOCKs, EEs and Group 4 Projects]]>
+      </title>
+      <itunes:title>
+        <![CDATA[Episode 2 — Getting through MOCKs, EEs and Group 4 Projects]]>
+      </itunes:title>
+      <itunes:summary>In this episode we tackle another bunch of the IBDP components, namely EEs and Group 4 Projects. We also mention the MOCK experience for the M21 students and answer the question many IB students might ask themselves: was it really worth it?</itunes:summary>
+      <description>
+        <![CDATA[<p>In this episode we tackle another bunch of the IBDP components, namely EEs and Group 4 Projects. We also mention the MOCK experience for the M21 students and answer the question many IB students might ask themselves: was it really worth it?</p>]]>
+      </description>
+      <enclosure url="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/episodes/ibPodcast_ep1_20210404.mp3" length="72635581" type="audio/mp3"></enclosure>
+      <guid isPermaLink="false">8a60c218-97f2-413a-96b1-531767a3b38d</guid>
+      <itunes:image href="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/cover.jpg"></itunes:image>
+      <itunes:duration>3027</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>yes</itunes:explicit>
+      <pubDate>Sun, 4 Apr 2021 18:51:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
