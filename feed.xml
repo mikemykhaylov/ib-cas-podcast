@@ -73,5 +73,25 @@
       <itunes:explicit>yes</itunes:explicit>
       <pubDate>Sun, 4 Apr 2021 18:51:00 GMT</pubDate>
     </item>
+    <item>
+      <title>
+        <![CDATA[Episode 3 — COVID Situation and School Teachers]]>
+      </title>
+      <itunes:title>
+        <![CDATA[Episode 3 — COVID Situation and School Teachers]]>
+      </itunes:title>
+      <itunes:summary>In this episode we discus how the COVID affected all base elements of the IB program. We also share our experiences with our school teachers and the difficulties that arose from unqualification or miscommunication. Finally, we ponder about coming up with the theme of one of the most difficult IAs: math</itunes:summary>
+      <description>
+        <![CDATA[<p>In this episode we discus how the COVID affected all base elements of the IB program. We also share our experiences with our school teachers and the difficulties that arose from unqualification or miscommunication. Finally, we ponder about coming up with the theme of one of the most difficult IAs: math</p>]]>
+      </description>
+      <enclosure url="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/episodes/ibPodcast_ep3_20210411.mp3" length="84181915" type="audio/mp3"></enclosure>
+      <guid isPermaLink="false">5f32e849-501c-45b4-8e7a-bb09107da845</guid>
+      <itunes:image href="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/cover.jpg"></itunes:image>
+      <itunes:duration>2631</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>yes</itunes:explicit>
+      <pubDate>Sun, 11 Apr 2021 22:15:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
