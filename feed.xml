@@ -93,5 +93,25 @@
       <itunes:explicit>yes</itunes:explicit>
       <pubDate>Sun, 11 Apr 2021 22:15:00 GMT</pubDate>
     </item>
+    <item>
+      <title>
+        <![CDATA[Episode 4 — University applications and closures]]>
+      </title>
+      <itunes:title>
+        <![CDATA[Episode 4 — University applications and closures]]>
+      </itunes:title>
+      <itunes:summary>Well, this is it folks. Time to round things up. It has been a fun little CAS project of ours, and it sure did count as CAS. In this final episode we discuss the recent news and address our future, asking the question: where to next?</itunes:summary>
+      <description>
+        <![CDATA[<p>Well, this is it folks. Time to round things up. It has been a fun little CAS project of ours, and it sure did count as CAS. In this final episode we discuss the recent news and address our future, asking the question: where to next?</p>]]>
+      </description>
+      <enclosure url="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/episodes/ibPodcast_ep4_20210419.mp3" length="63674329" type="audio/mp3"></enclosure>
+      <guid isPermaLink="false">1821faac-64cf-4e82-9e91-7e36c0b590db</guid>
+      <itunes:image href="https://i-hope-this-counts-as-cas-podcast.s3.eu-north-1.amazonaws.com/cover.jpg"></itunes:image>
+      <itunes:duration>1990</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>yes</itunes:explicit>
+      <pubDate>Sun, 19 Apr 2021 23:30:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
